@@ -1,4 +1,4 @@
-baseURL: "https://www.example.com/"
+baseURL: "https://jeffdev7.github.io/static-website/"
 theme: "up-business-theme"
 languageCode: "en-us"
 canonifyURLs: true
