@@ -1,0 +1,19 @@
+enabled: true
+id: "services"
+
+content:
+  title: "Principais serviços"
+  text: "Oferecemos soluções Web para atender às necessidades de seu negócio. 
+  Através da digitalização iremos ajudá-los a alcançar uma presença online eficaz."
+  cards:
+    - image: "images/services-web-development.png"
+      title: "Criação de sites estáticos"
+      text: "Criação de sites estáticos de acordo com as exigências dos clientes."
+
+    - image: "images/services-web-development.png"
+      title: "Manutenção de aplicações"
+      text: "Manutenção em aplicações web desenvolvidas em: ASP.NET, C++, PHP, HTML/CSS e JavaScript."
+
+    - image: "images/services-web-development.png"
+      title: "Consultória"
+      text: "Consultória para micro e pequenas empresas sobre soluções digitais."

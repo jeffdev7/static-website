@@ -1,0 +1,70 @@
+baseURL: "https://www.example.com/"
+theme: "up-business-theme"
+languageCode: "en-us"
+
+title: "Jago"
+
+# googleAnalytics: ""
+
+summaryLength: 20
+
+params:
+  title: "Jago Desenvolvimento de Soluções"
+  description: "Somos especialistas em desenvolvimento e manutenção de soluções Web."
+  images: 
+    - "images/hero-image.png"
+
+  logo: "logo-jago.png"
+
+  favicons:
+    themeColor: "#FFFFFF"
+    backgroundColor: "#FFFFFF"
+    faviconColor: "#000000"
+
+  social:
+    instagram: "#"
+    facebook: "#"
+    twitter: "#"
+
+  contact:
+    - "jagodesenvolvimento@gmail.com"
+    - "+55 11 98xxx-xxxx"
+
+  copyright: "© 2024 Jago Desenvolvimento de Soluções"
+
+menus:
+  main:
+    - name: "Home"
+      url: "/#hero"
+      weight: 1
+
+    - name: "How we work"
+      url: "/#"
+      weight: 2
+
+    - name: "Our team"
+      url: "/#"
+      weight: 3
+
+  buttons:
+    - name: "Book a call"
+      url: "/#"
+      weight: 5
+      pre: "btn btn-primary text-light"
+
+  footer:
+    - name: "Home"
+      url: "/#hero"
+      weight: 1
+
+    - name: "How we work"
+      url: "/#"
+      weight: 2
+
+    - name: "Our team"
+      url: "/#"
+      weight: 3
+
+taxonomies:
+  series: "series"
+  tags: "tags"
