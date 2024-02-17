@@ -27,7 +27,7 @@ params:
     twitter: "#"
 
   contact:
-    - "jagodesenvolvimento@gmail.com"
+    - "jago.websolutions@gmail.com"
     - "+55 11 98xxx-xxxx"
 
   copyright: "© 2024 Jago Desenvolvimento de Soluções"
@@ -38,18 +38,10 @@ menus:
       url: "/#hero"
       weight: 1
 
+  buttons:
     - name: "How we work"
       url: "/#"
       weight: 2
-
-    - name: "Our team"
-      url: "/#"
-      weight: 3
-
-  buttons:
-    - name: "Book a call"
-      url: "/#"
-      weight: 5
       pre: "btn btn-primary text-light"
 
   footer:
@@ -60,10 +52,6 @@ menus:
     - name: "How we work"
       url: "/#"
       weight: 2
-
-    - name: "Our team"
-      url: "/#"
-      weight: 3
 
 taxonomies:
   series: "series"
