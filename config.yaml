@@ -17,7 +17,7 @@ params:
   logo: "logo-jago.png"
 
   favicons:
-    themeColor: "#FFFFFF"
+    themeColor: "#1c1c1c"
     backgroundColor: "#1c1c1c"
     faviconColor: "#000000"
 
