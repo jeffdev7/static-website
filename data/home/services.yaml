@@ -3,17 +3,16 @@ id: "services"
 
 content:
   title: "Principais serviços"
-  text: "Oferecemos soluções Web para atender às necessidades de seu negócio. 
-  Através da digitalização iremos ajudá-los a alcançar uma presença online eficaz."
+  text: "Oferecemos soluções Web que lhe darão mais tempo para focar no crescimento do seu negócio e mais rapidez e comodidade para seus clientes."
   cards:
     - image: "images/services-web-development.png"
       title: "Customização"
-      text: "Customização da nossa solução para agendamento com seus requisitos adcionais e logo"
+      text: "Customização da nossa solução para agendamento com seus requisitos adcionais e logo."
 
     - image: "images/services-web-development.png"
-      title: "Manutenção de aplicações"
-      text: "Manutenção em aplicações web desenvolvidas em: ASP.NET, C++, PHP, HTML/CSS e JavaScript."
+      title: "Ajustes e melhorias de sistemas"
+      text: "Manutenção em aplicações web."
 
     - image: "images/services-web-development.png"
-      title: "Desenvolvimento com hospedagem"
-      text: "Criamos o seu site e garantimos sua operação contínua com hospedagem integrada."
+      title: "Criação de soluções digitais"
+      text: "Criação de soluções digitais como cardápios digitais personalizados, sistemas de reserva, controle de estoque entre outros."

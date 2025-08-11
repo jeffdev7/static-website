@@ -3,14 +3,13 @@ id: "hero"
 
 content:
   title: "**Digitalize** o seu negócio"
-  text: "Crie ou amplie sua presença online. Oferecemos soluções ágeis que vão desde 
-  a criação de sites até a manutenção de aplicativos web, permitindo que você se concentre no crescimento do seu negócio."
+  text: "Crie ou amplie sua presença online. Automatize taregas para ter mais tempo. Oferecemos soluções ágeis e enxutas parar pequenas e micro empresas, assim permitindo que você foque no crescimento do seu negócio."
 
   buttonPrimary:
-    label: "How we work"
+    label: "Nosso primeiro produto"
     url: "#"
 
   buttonSecondary:
-    label: "Let's talk"
+    label: "Nossos serviços"
     url: ""
 
